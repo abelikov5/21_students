@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Студенты</string>
+    <string name="no_token_internet">Не удалось обновить токен из-за отсутствия интернета!</string>
+    <string name="no_token">Не удалось обновить токен</string>
+    <string name="grant_type">client_credentials</string>
+    <string name="client_id">f198e71ef9424b1c62559f37a86acc794dcef4868bb7db78c4c73aaf29bc6651</string>
+    <string name="client_secret">e68f0783033114b7c9ad4662d2ab2ea2c76c9263879b9b4c12e55fb90b2355a6</string>
+    <string name="search">Поиск</string>
+    <string name="skills">Компетенции:</string>
+    <string name="projects">Проекты:</string>
+    <string name="achievements">Награды:</string>
+    <string name="campus">Место учебы:</string>
+    <string name="user_name">Имя: </string>
+    <string name="user_login">Логин: </string>
+    <string name="user_lastname">Фамилия: </string>
+    <string name="try_another">Студент не найден, попробуйте другой логин</string>
+</resources>
